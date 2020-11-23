@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    text-transform: uppercase;
+    background-color: gold;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.title{
+    text-align: center;
+    color: green;
+    text-transform: uppercase;
+    background-color: gold;
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#specialstyling {
+    text-align: center;
+    color: green;
+    text-transform: uppercase;
+    background-color: gold;
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+ {
+    padding-bottom:10px;
+    padding-right:14px;
+    padding-left:14px;
+    padding-top:10px;
+}
+li a:hover{
+    background-color: green;
+    color:white;
+}
+div{
+    border:5px ;
+    border-style:dotted ;
+    border-radius:20px ;
+    box-shadow: -10px 10px 5px dimgray;
+}
+table{
+    width:100%;
+    border-collapse: white;
+}
+}
